@@ -46,3 +46,7 @@ Q4 shows the highest revenue & transaction count, indicating seasonal trends.
 
 <img width="1404" height="700" alt="Screenshot 2025-09-14 172631" src="https://github.com/user-attachments/assets/341e7695-6cd0-42bc-86a2-86f07d892a36" />
 
+
+<img width="1291" height="712" alt="Screenshot 2025-09-14 172648" src="https://github.com/user-attachments/assets/938263c1-6414-4a25-bbae-c0aad7b32d9f" />
+
+
